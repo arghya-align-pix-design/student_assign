@@ -1,0 +1,39 @@
+.teacher-registration {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .teacher-registration h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .teacher-registration form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .teacher-registration input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .teacher-registration button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .teacher-registration button:hover {
+    background-color: #0056b3;
+  }
+  

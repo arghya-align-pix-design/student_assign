@@ -1,0 +1,39 @@
+.student-registration {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .student-registration h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .student-registration form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .student-registration input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .student-registration button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .student-registration button:hover {
+    background-color: #0056b3;
+  }
+  
